@@ -25,7 +25,7 @@ Visualize DNA-to-mRNA transcription.
 Switch between coding and template strands.
 
 📚 Educational Visualization
-Designed to support molecular genetics learning through interactive exploration.
+Explore molecular genetics through interactive visualization.
 
 ---
 

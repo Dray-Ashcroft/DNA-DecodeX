@@ -1,32 +1,49 @@
 <p align="center">
   <img src="assets/repo-banner.jpg" alt="DeCodeX Banner" width="100%">
-</p>
+</p>🧬 DeCodeX
 
-# 🧬 DeCodeX
+Interactive DNA Structure Explorer
 
-**Interactive DNA Structure Explorer**
+«An open-source educational tool for exploring DNA structure, base pairing, hydrogen bonding, and transcription through an interactive B-form double helix.»
 
----
-
-### 📖 Overview
-**DeCodeX** is an open-source educational tool designed to demystify DNA architecture. Through an interactive B-form double helix, users can explore base pairing and witness the mechanics of molecular genetics.
-
-### ✨ Features
-*   **3D Helix Exploration**: Inspect the B-form double helix with real-time interactivity.
-*   **Molecular Analysis**: Visualize hydrogen bonding and specific base pair (A–T, G–C) inspections.
-*   **mRNA Mode**: Simulate and visualize the process of DNA-to-mRNA transcription.
-*   **Coding Strand Toggle**: Switch between strands to enhance conceptual understanding of genetic encoding.
-*   **Accessible Interface**: Fully responsive, browser-based design for classroom and self-study.
+🧬 DNA Structure · 🧬 Base Pairing · 🧬 Transcription
 
 ---
 
-### 📜 License
-GPL-3.0
+✦ Features
 
-### 👨‍🏫 Author
-**Draven-Ashcroft** | DIPS Chain of Institutions, Tanda
+🧬 3D Helix Explorer
+Explore an interactive B-form DNA double helix.
+
+🧪 Base Pair Analysis
+Inspect A–T and G–C base pairs and their hydrogen bonding.
+
+📊 mRNA Mode
+Visualize DNA-to-mRNA transcription.
+
+🔄 Strand Toggle
+Switch between coding and template strands.
+
+📚 Educational Visualization
+Designed to support molecular genetics learning through interactive exploration.
 
 ---
 
-### 🙏 Acknowledgements
-Built with technical support from AI innovators: OpenAI, Anthropic, Google, Moonshot AI, and DeepSeek. Inspired by NCERT Biology and professional scientific visualization standards.
+🧬 Core Concepts
+
+B-Form DNA · A–T Pairing · G–C Pairing · Hydrogen Bonding · Transcription
+
+---
+
+⚙️ Technology
+
+HTML · CSS · JavaScript
+
+Source: GitHub
+Hosting: GitHub Pages
+
+---
+
+📜 License
+
+GNU General Public License v3.0 (GPL-3.0)

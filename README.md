@@ -1,14 +1,16 @@
 <p align="center">
-  <img src="assets/repo-banner.jpg" alt="DeCodeX Banner" width="100%">
+  <img src="assets/repo-banner.jpg" alt="DeCodeX — Interactive DNA Structure Explorer" width="100%">
 </p>
 
 # 🧬 DeCodeX
 
 ### *Interactive DNA Structure Explorer*
 
-> An open-source educational tool for exploring DNA structure, base pairing, hydrogen bonding, and transcription through an interactive B-form double helix.
+> **DeCodeX** is an interactive visualization exploring **DNA structure**, base pairing, hydrogen bonding, and transcription through a B-form double helix.
+>
+> 🧬 **DNA Structure** · 🧪 **Base Pairing** · 🧬 **Transcription**
 
-**🧬 DNA Structure · 🧬 Base Pairing · 🧬 Transcription**
+**🔬 [Explore the Simulation](YOUR-LINK-HERE)**
 
 ---
 
@@ -41,11 +43,11 @@ Explore molecular genetics through interactive visualization.
 
 **HTML · CSS · JavaScript**
 
-**Source:** GitHub  
-**Hosting:** GitHub Pages
+**Repository:** GitHub & Codeberg  
+**Hosting:** Cloudflare
 
 ---
 
 ## 📜 License
 
-**GNU General Public License v3.0 (GPL-3.0)**
+Distributed under the **GNU General Public License v3.0 (GPL-3.0)**.

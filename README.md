@@ -8,7 +8,7 @@
 
 > **DeCodeX** is an interactive visualization exploring **DNA structure**, base pairing, hydrogen bonding, and transcription through a B-form double helix.
 >
-> 🧬 **DNA Structure** · 🧪 **Base Pairing** · 🧬 **Transcription**
+🧬 **DNA Structure** · 🧪 **Base Pairing** · 🧬 **Transcription**
 
 **🔬 [Explore the Simulation](https://decodex.dray-ashcroft.workers.dev)**
 

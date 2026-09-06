@@ -10,7 +10,7 @@
 >
 > 🧬 **DNA Structure** · 🧪 **Base Pairing** · 🧬 **Transcription**
 
-**🔬 [Explore the Simulation](decodex.dray-ashcroft.workers.dev)**
+**🔬 [Explore the Simulation](https://decodex.dray-ashcroft.workers.dev)**
 
 ---
 
